@@ -1,1 +1,1 @@
-"# Wordle-Game" 
+oh wow, uhm anyway thats one of my first games, i just left like this as a console app, i am too beginner to design a full website for it, so yea i am just gonna leave it here, feel free to commit or point something i miss or maybe oversaw.
