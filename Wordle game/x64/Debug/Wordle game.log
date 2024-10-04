@@ -1,0 +1,3 @@
+﻿  Wordle.c
+C:\Users\nx\source\repos\Wordle game\Wordle game\Wordle.c(63,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Wordle game.vcxproj -> C:\Users\nx\source\repos\Wordle game\x64\Debug\Wordle game.exe
